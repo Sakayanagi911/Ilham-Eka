@@ -1,5 +1,6 @@
 Ini text from master
 Ini text doang
+Text ini new
 Ini text from master ril
 Ini branch dev
 Ini branch featureB
